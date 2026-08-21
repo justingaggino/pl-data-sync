@@ -1,0 +1,692 @@
+{
+ "generated_at_utc": "2026-08-21T08:02:47+00:00",
+ "league": {
+  "id": 449637,
+  "name": "Fantasy Addicts Anonymous",
+  "size": 30
+ },
+ "latest_finished_gw": 0,
+ "snapshot_dates": {
+  "standings": null,
+  "players": "2026-08-21"
+ },
+ "justin": {
+  "entry_id": 7525442,
+  "rank": null,
+  "profile": {
+   "entry_id": 7525442,
+   "player_name": null,
+   "team_name": "Singapore Slingers",
+   "chips_used": [],
+   "chips_left_set1_estimate": {
+    "wildcard": 1,
+    "bboost": 1,
+    "3xc": 1,
+    "freehit": 1
+   },
+   "total_transfers": 0,
+   "total_hit_points": 0,
+   "captain_history": [],
+   "captain_counts": {},
+   "gws_since_last_transfer": 0,
+   "team_value_tenths": null
+  }
+ },
+ "table": [],
+ "rivals": [
+  {
+   "entry_id": 78534,
+   "player_name": null,
+   "team_name": "S37OHSSV O773H",
+   "chips_used": [],
+   "chips_left_set1_estimate": {
+    "wildcard": 1,
+    "bboost": 1,
+    "3xc": 1,
+    "freehit": 1
+   },
+   "total_transfers": 0,
+   "total_hit_points": 0,
+   "captain_history": [],
+   "captain_counts": {},
+   "gws_since_last_transfer": 0,
+   "team_value_tenths": null
+  },
+  {
+   "entry_id": 573475,
+   "player_name": null,
+   "team_name": "Nikaragua",
+   "chips_used": [],
+   "chips_left_set1_estimate": {
+    "wildcard": 1,
+    "bboost": 1,
+    "3xc": 1,
+    "freehit": 1
+   },
+   "total_transfers": 0,
+   "total_hit_points": 0,
+   "captain_history": [],
+   "captain_counts": {},
+   "gws_since_last_transfer": 0,
+   "team_value_tenths": null
+  },
+  {
+   "entry_id": 679676,
+   "player_name": null,
+   "team_name": "Not Too Xabi",
+   "chips_used": [],
+   "chips_left_set1_estimate": {
+    "wildcard": 1,
+    "bboost": 1,
+    "3xc": 1,
+    "freehit": 1
+   },
+   "total_transfers": 0,
+   "total_hit_points": 0,
+   "captain_history": [],
+   "captain_counts": {},
+   "gws_since_last_transfer": 0,
+   "team_value_tenths": null
+  },
+  {
+   "entry_id": 694865,
+   "player_name": null,
+   "team_name": "Rice Rice Baby",
+   "chips_used": [],
+   "chips_left_set1_estimate": {
+    "wildcard": 1,
+    "bboost": 1,
+    "3xc": 1,
+    "freehit": 1
+   },
+   "total_transfers": 0,
+   "total_hit_points": 0,
+   "captain_history": [],
+   "captain_counts": {},
+   "gws_since_last_transfer": 0,
+   "team_value_tenths": null
+  },
+  {
+   "entry_id": 697899,
+   "player_name": null,
+   "team_name": "ProudGooner",
+   "chips_used": [],
+   "chips_left_set1_estimate": {
+    "wildcard": 1,
+    "bboost": 1,
+    "3xc": 1,
+    "freehit": 1
+   },
+   "total_transfers": 0,
+   "total_hit_points": 0,
+   "captain_history": [],
+   "captain_counts": {},
+   "gws_since_last_transfer": 0,
+   "team_value_tenths": null
+  },
+  {
+   "entry_id": 707546,
+   "player_name": null,
+   "team_name": "Haaland Globetroters",
+   "chips_used": [],
+   "chips_left_set1_estimate": {
+    "wildcard": 1,
+    "bboost": 1,
+    "3xc": 1,
+    "freehit": 1
+   },
+   "total_transfers": 0,
+   "total_hit_points": 0,
+   "captain_history": [],
+   "captain_counts": {},
+   "gws_since_last_transfer": 0,
+   "team_value_tenths": null
+  },
+  {
+   "entry_id": 728419,
+   "player_name": null,
+   "team_name": "CaptainCoach",
+   "chips_used": [],
+   "chips_left_set1_estimate": {
+    "wildcard": 1,
+    "bboost": 1,
+    "3xc": 1,
+    "freehit": 1
+   },
+   "total_transfers": 0,
+   "total_hit_points": 0,
+   "captain_history": [],
+   "captain_counts": {},
+   "gws_since_last_transfer": 0,
+   "team_value_tenths": null
+  },
+  {
+   "entry_id": 821464,
+   "player_name": null,
+   "team_name": "Tomic FC",
+   "chips_used": [],
+   "chips_left_set1_estimate": {
+    "wildcard": 1,
+    "bboost": 1,
+    "3xc": 1,
+    "freehit": 1
+   },
+   "total_transfers": 0,
+   "total_hit_points": 0,
+   "captain_history": [],
+   "captain_counts": {},
+   "gws_since_last_transfer": 0,
+   "team_value_tenths": null
+  },
+  {
+   "entry_id": 1419327,
+   "player_name": null,
+   "team_name": "thats what she said",
+   "chips_used": [],
+   "chips_left_set1_estimate": {
+    "wildcard": 1,
+    "bboost": 1,
+    "3xc": 1,
+    "freehit": 1
+   },
+   "total_transfers": 0,
+   "total_hit_points": 0,
+   "captain_history": [],
+   "captain_counts": {},
+   "gws_since_last_transfer": 0,
+   "team_value_tenths": null
+  },
+  {
+   "entry_id": 1492699,
+   "player_name": null,
+   "team_name": "SERGIOs BISCUITS",
+   "chips_used": [],
+   "chips_left_set1_estimate": {
+    "wildcard": 1,
+    "bboost": 1,
+    "3xc": 1,
+    "freehit": 1
+   },
+   "total_transfers": 0,
+   "total_hit_points": 0,
+   "captain_history": [],
+   "captain_counts": {},
+   "gws_since_last_transfer": 0,
+   "team_value_tenths": null
+  },
+  {
+   "entry_id": 1870278,
+   "player_name": null,
+   "team_name": "The Dark Cuck Rises",
+   "chips_used": [],
+   "chips_left_set1_estimate": {
+    "wildcard": 1,
+    "bboost": 1,
+    "3xc": 1,
+    "freehit": 1
+   },
+   "total_transfers": 0,
+   "total_hit_points": 0,
+   "captain_history": [],
+   "captain_counts": {},
+   "gws_since_last_transfer": 0,
+   "team_value_tenths": null
+  },
+  {
+   "entry_id": 2297549,
+   "player_name": null,
+   "team_name": "FK SUPAK",
+   "chips_used": [],
+   "chips_left_set1_estimate": {
+    "wildcard": 1,
+    "bboost": 1,
+    "3xc": 1,
+    "freehit": 1
+   },
+   "total_transfers": 0,
+   "total_hit_points": 0,
+   "captain_history": [],
+   "captain_counts": {},
+   "gws_since_last_transfer": 0,
+   "team_value_tenths": null
+  },
+  {
+   "entry_id": 2436383,
+   "player_name": null,
+   "team_name": "Merino up front",
+   "chips_used": [],
+   "chips_left_set1_estimate": {
+    "wildcard": 1,
+    "bboost": 1,
+    "3xc": 1,
+    "freehit": 1
+   },
+   "total_transfers": 0,
+   "total_hit_points": 0,
+   "captain_history": [],
+   "captain_counts": {},
+   "gws_since_last_transfer": 0,
+   "team_value_tenths": null
+  },
+  {
+   "entry_id": 2797433,
+   "player_name": null,
+   "team_name": "Equalizer Enthusiast",
+   "chips_used": [],
+   "chips_left_set1_estimate": {
+    "wildcard": 1,
+    "bboost": 1,
+    "3xc": 1,
+    "freehit": 1
+   },
+   "total_transfers": 0,
+   "total_hit_points": 0,
+   "captain_history": [],
+   "captain_counts": {},
+   "gws_since_last_transfer": 0,
+   "team_value_tenths": null
+  },
+  {
+   "entry_id": 2925890,
+   "player_name": null,
+   "team_name": "Carolina FC",
+   "chips_used": [],
+   "chips_left_set1_estimate": {
+    "wildcard": 1,
+    "bboost": 1,
+    "3xc": 1,
+    "freehit": 1
+   },
+   "total_transfers": 0,
+   "total_hit_points": 0,
+   "captain_history": [],
+   "captain_counts": {},
+   "gws_since_last_transfer": 0,
+   "team_value_tenths": null
+  },
+  {
+   "entry_id": 3505567,
+   "player_name": null,
+   "team_name": "Getdown",
+   "chips_used": [],
+   "chips_left_set1_estimate": {
+    "wildcard": 1,
+    "bboost": 1,
+    "3xc": 1,
+    "freehit": 1
+   },
+   "total_transfers": 0,
+   "total_hit_points": 0,
+   "captain_history": [],
+   "captain_counts": {},
+   "gws_since_last_transfer": 0,
+   "team_value_tenths": null
+  },
+  {
+   "entry_id": 3612001,
+   "player_name": null,
+   "team_name": "Palestra Siesta FC",
+   "chips_used": [],
+   "chips_left_set1_estimate": {
+    "wildcard": 1,
+    "bboost": 1,
+    "3xc": 1,
+    "freehit": 1
+   },
+   "total_transfers": 0,
+   "total_hit_points": 0,
+   "captain_history": [],
+   "captain_counts": {},
+   "gws_since_last_transfer": 0,
+   "team_value_tenths": null
+  },
+  {
+   "entry_id": 3662978,
+   "player_name": null,
+   "team_name": "4211 FK",
+   "chips_used": [],
+   "chips_left_set1_estimate": {
+    "wildcard": 1,
+    "bboost": 1,
+    "3xc": 1,
+    "freehit": 1
+   },
+   "total_transfers": 0,
+   "total_hit_points": 0,
+   "captain_history": [],
+   "captain_counts": {},
+   "gws_since_last_transfer": 0,
+   "team_value_tenths": null
+  },
+  {
+   "entry_id": 4333495,
+   "player_name": null,
+   "team_name": "Fantazija",
+   "chips_used": [],
+   "chips_left_set1_estimate": {
+    "wildcard": 1,
+    "bboost": 1,
+    "3xc": 1,
+    "freehit": 1
+   },
+   "total_transfers": 0,
+   "total_hit_points": 0,
+   "captain_history": [],
+   "captain_counts": {},
+   "gws_since_last_transfer": 0,
+   "team_value_tenths": null
+  },
+  {
+   "entry_id": 4441153,
+   "player_name": null,
+   "team_name": "Adem Poric",
+   "chips_used": [],
+   "chips_left_set1_estimate": {
+    "wildcard": 1,
+    "bboost": 1,
+    "3xc": 1,
+    "freehit": 1
+   },
+   "total_transfers": 0,
+   "total_hit_points": 0,
+   "captain_history": [],
+   "captain_counts": {},
+   "gws_since_last_transfer": 0,
+   "team_value_tenths": null
+  },
+  {
+   "entry_id": 4773975,
+   "player_name": null,
+   "team_name": "Pep Talk FC",
+   "chips_used": [],
+   "chips_left_set1_estimate": {
+    "wildcard": 1,
+    "bboost": 1,
+    "3xc": 1,
+    "freehit": 1
+   },
+   "total_transfers": 0,
+   "total_hit_points": 0,
+   "captain_history": [],
+   "captain_counts": {},
+   "gws_since_last_transfer": 0,
+   "team_value_tenths": null
+  },
+  {
+   "entry_id": 5099183,
+   "player_name": null,
+   "team_name": "Cornered by Gabriel",
+   "chips_used": [],
+   "chips_left_set1_estimate": {
+    "wildcard": 1,
+    "bboost": 1,
+    "3xc": 1,
+    "freehit": 1
+   },
+   "total_transfers": 0,
+   "total_hit_points": 0,
+   "captain_history": [],
+   "captain_counts": {},
+   "gws_since_last_transfer": 0,
+   "team_value_tenths": null
+  },
+  {
+   "entry_id": 5949862,
+   "player_name": null,
+   "team_name": "Groß & Friends",
+   "chips_used": [],
+   "chips_left_set1_estimate": {
+    "wildcard": 1,
+    "bboost": 1,
+    "3xc": 1,
+    "freehit": 1
+   },
+   "total_transfers": 0,
+   "total_hit_points": 0,
+   "captain_history": [],
+   "captain_counts": {},
+   "gws_since_last_transfer": 0,
+   "team_value_tenths": null
+  },
+  {
+   "entry_id": 5959124,
+   "player_name": null,
+   "team_name": "Mumma's Milk",
+   "chips_used": [],
+   "chips_left_set1_estimate": {
+    "wildcard": 1,
+    "bboost": 1,
+    "3xc": 1,
+    "freehit": 1
+   },
+   "total_transfers": 0,
+   "total_hit_points": 0,
+   "captain_history": [],
+   "captain_counts": {},
+   "gws_since_last_transfer": 0,
+   "team_value_tenths": null
+  },
+  {
+   "entry_id": 6103952,
+   "player_name": null,
+   "team_name": "CunhaBelieveIt'sTime",
+   "chips_used": [],
+   "chips_left_set1_estimate": {
+    "wildcard": 1,
+    "bboost": 1,
+    "3xc": 1,
+    "freehit": 1
+   },
+   "total_transfers": 0,
+   "total_hit_points": 0,
+   "captain_history": [],
+   "captain_counts": {},
+   "gws_since_last_transfer": 0,
+   "team_value_tenths": null
+  },
+  {
+   "entry_id": 6514409,
+   "player_name": null,
+   "team_name": "Budwee XI",
+   "chips_used": [],
+   "chips_left_set1_estimate": {
+    "wildcard": 1,
+    "bboost": 1,
+    "3xc": 1,
+    "freehit": 1
+   },
+   "total_transfers": 0,
+   "total_hit_points": 0,
+   "captain_history": [],
+   "captain_counts": {},
+   "gws_since_last_transfer": 0,
+   "team_value_tenths": null
+  },
+  {
+   "entry_id": 6538940,
+   "player_name": null,
+   "team_name": "Ligmatron 3000",
+   "chips_used": [],
+   "chips_left_set1_estimate": {
+    "wildcard": 1,
+    "bboost": 1,
+    "3xc": 1,
+    "freehit": 1
+   },
+   "total_transfers": 0,
+   "total_hit_points": 0,
+   "captain_history": [],
+   "captain_counts": {},
+   "gws_since_last_transfer": 0,
+   "team_value_tenths": null
+  },
+  {
+   "entry_id": 6653682,
+   "player_name": null,
+   "team_name": "Daddys(H)",
+   "chips_used": [],
+   "chips_left_set1_estimate": {
+    "wildcard": 1,
+    "bboost": 1,
+    "3xc": 1,
+    "freehit": 1
+   },
+   "total_transfers": 0,
+   "total_hit_points": 0,
+   "captain_history": [],
+   "captain_counts": {},
+   "gws_since_last_transfer": 0,
+   "team_value_tenths": null
+  },
+  {
+   "entry_id": 7525442,
+   "player_name": null,
+   "team_name": "Singapore Slingers",
+   "chips_used": [],
+   "chips_left_set1_estimate": {
+    "wildcard": 1,
+    "bboost": 1,
+    "3xc": 1,
+    "freehit": 1
+   },
+   "total_transfers": 0,
+   "total_hit_points": 0,
+   "captain_history": [],
+   "captain_counts": {},
+   "gws_since_last_transfer": 0,
+   "team_value_tenths": null
+  },
+  {
+   "entry_id": 7549639,
+   "player_name": null,
+   "team_name": "Change Name",
+   "chips_used": [],
+   "chips_left_set1_estimate": {
+    "wildcard": 1,
+    "bboost": 1,
+    "3xc": 1,
+    "freehit": 1
+   },
+   "total_transfers": 0,
+   "total_hit_points": 0,
+   "captain_history": [],
+   "captain_counts": {},
+   "gws_since_last_transfer": 0,
+   "team_value_tenths": null
+  }
+ ],
+ "league_effective_ownership": [],
+ "price_and_ownership_moves": [
+  {
+   "player": "Gabriel (ARS)",
+   "price_now": 8.0,
+   "price_change_window": 0.0,
+   "sel_by_pct_now": 29.7,
+   "sel_by_pct_change_window": 0.0,
+   "status": "a",
+   "news": "",
+   "window_days": 1
+  },
+  {
+   "player": "Sangaré (NFO)",
+   "price_now": 5.0,
+   "price_change_window": 0.0,
+   "sel_by_pct_now": 1.1,
+   "sel_by_pct_change_window": 0.0,
+   "status": "a",
+   "news": "",
+   "window_days": 1
+  },
+  {
+   "player": "Thiago (BRE)",
+   "price_now": 8.0,
+   "price_change_window": 0.0,
+   "sel_by_pct_now": 17.5,
+   "sel_by_pct_change_window": 0.0,
+   "status": "a",
+   "news": "",
+   "window_days": 1
+  },
+  {
+   "player": "Palmer (IPS)",
+   "price_now": 4.0,
+   "price_change_window": 0.0,
+   "sel_by_pct_now": 4.9,
+   "sel_by_pct_change_window": 0.0,
+   "status": "a",
+   "news": "",
+   "window_days": 1
+  },
+  {
+   "player": "Semenyo (MCI)",
+   "price_now": 8.5,
+   "price_change_window": 0.0,
+   "sel_by_pct_now": 26.4,
+   "sel_by_pct_change_window": 0.0,
+   "status": "a",
+   "news": "",
+   "window_days": 1
+  },
+  {
+   "player": "Foden (MCI)",
+   "price_now": 7.0,
+   "price_change_window": 0.0,
+   "sel_by_pct_now": 4.3,
+   "sel_by_pct_change_window": 0.0,
+   "status": "a",
+   "news": "",
+   "window_days": 1
+  },
+  {
+   "player": "Isak (LIV)",
+   "price_now": 9.0,
+   "price_change_window": 0.0,
+   "sel_by_pct_now": 16.4,
+   "sel_by_pct_change_window": 0.0,
+   "status": "a",
+   "news": "",
+   "window_days": 1
+  },
+  {
+   "player": "Haaland (MCI)",
+   "price_now": 15.5,
+   "price_change_window": 0.0,
+   "sel_by_pct_now": 69.3,
+   "sel_by_pct_change_window": 0.0,
+   "status": "a",
+   "news": "",
+   "window_days": 1
+  },
+  {
+   "player": "Sangaré (BRE)",
+   "price_now": 5.5,
+   "price_change_window": 0.0,
+   "sel_by_pct_now": 3.1,
+   "sel_by_pct_change_window": 0.0,
+   "status": "a",
+   "news": "",
+   "window_days": 1
+  },
+  {
+   "player": "Palmer (CHE)",
+   "price_now": 9.5,
+   "price_change_window": 0.0,
+   "sel_by_pct_now": 10.4,
+   "sel_by_pct_change_window": 0.0,
+   "status": "a",
+   "news": "",
+   "window_days": 1
+  },
+  {
+   "player": "Hinshelwood (BHA)",
+   "price_now": 6.0,
+   "price_change_window": 0.0,
+   "sel_by_pct_now": 0.4,
+   "sel_by_pct_change_window": 0.0,
+   "status": "a",
+   "news": "",
+   "window_days": 1
+  }
+ ],
+ "notes": "All data from the public FPL API. eo_pct = (starters+captain doubles)/league size."
+}
