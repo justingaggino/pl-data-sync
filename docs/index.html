@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8"><title>pl-data-sync</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<style>body{font-family:system-ui,sans-serif;max-width:900px;margin:2rem auto;padding:0 1rem;color:#111}
+table{border-collapse:collapse;width:100%;margin:1rem 0}td,th{border-bottom:1px solid #ddd;padding:6px 8px;text-align:left;font-size:14px}
+h1{font-size:22px}h2{font-size:17px;margin-top:2rem}small{color:#666}</style></head>
+<body><h1>pl-data-sync</h1><p><small id="meta">loading…</small></p>
+<h2>League table</h2><table id="tbl"><tr><th>#</th><th>Manager</th><th>Team</th><th>Total</th><th>GW</th></tr></table>
+<h2>Top league effective ownership</h2><table id="eo"><tr><th>Player</th><th>Owned</th><th>Capt</th><th>EO%</th></tr></table>
+<script>
+fetch('latest.json').then(r=>r.json()).then(d=>{
+document.getElementById('meta').textContent='Generated '+d.generated_at_utc+' · GW'+d.latest_finished_gw+' · '+d.league.name;
+const t=document.getElementById('tbl');
+(d.table||[]).forEach(r=>{const tr=document.createElement('tr');
+tr.innerHTML='<td>'+r.rank+'</td><td>'+r.player_name+'</td><td>'+r.team_name+'</td><td>'+r.total+'</td><td>'+r.event_total+'</td>';
+if(r.entry_id===d.justin.entry_id){tr.style.fontWeight='700'}t.appendChild(tr);});
+const e=document.getElementById('eo');
+(d.league_effective_ownership||[]).slice(0,20).forEach(r=>{const tr=document.createElement('tr');
+tr.innerHTML='<td>'+r.player+'</td><td>'+r.owned_by+'</td><td>'+r.captained_by+'</td><td>'+r.eo_pct+'</td>';e.appendChild(tr);});
+}).catch(e=>{document.getElementById('meta').textContent='No data yet. Run the sync workflow.'});
+</script></body></html>
