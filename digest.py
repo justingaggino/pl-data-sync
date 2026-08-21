@@ -12,9 +12,8 @@ from datetime import datetime, timezone
 
 import config
 
-CHIP_SETS = {
-    "wildcard": 2, "bboost": 2, "3xc": 2, "freehit": 2,
-}
+CHIP_NAMES = ["wildcard", "bboost", "3xc", "freehit"]
+SET1_LAST_GW = 19  # set-1 chips die at the GW19 deadline; set 2 unlocks GW20
 
 
 def q(conn, sql, args=()):
@@ -64,7 +63,8 @@ def build(conn):
             (eid,),
         )
         chips_used = [{"gw": g["gw"], "chip": g["chip"]} for g in gws if g["chip"]]
-        used_names = [c["chip"] for c in chips_used]
+        used_set1 = [c["chip"] for c in chips_used if c["gw"] <= SET1_LAST_GW]
+        used_set2 = [c["chip"] for c in chips_used if c["gw"] > SET1_LAST_GW]
         hits = sum((g["transfers_cost"] or 0) for g in gws)
         moves = sum((g["transfers_made"] or 0) for g in gws)
         caps = q(
@@ -84,11 +84,13 @@ def build(conn):
                 "player_name": row["player_name"],
                 "team_name": row["team_name"],
                 "chips_used": chips_used,
-                "chips_left_set1_estimate": {
-                    "wildcard": 1 - used_names.count("wildcard") if latest_gw < 20 else None,
-                    "bboost": 1 - used_names.count("bboost") if latest_gw < 20 else None,
-                    "3xc": 1 - used_names.count("3xc") if latest_gw < 20 else None,
-                    "freehit": 1 - used_names.count("freehit") if latest_gw < 20 else None,
+                "chips_left": {
+                    "set1": None if latest_gw > SET1_LAST_GW else {
+                        n: 1 - used_set1.count(n) for n in CHIP_NAMES
+                    },
+                    "set1_note": "set 1 expired at the GW19 deadline" if latest_gw > SET1_LAST_GW else None,
+                    "set2": {n: 1 - used_set2.count(n) for n in CHIP_NAMES},
+                    "set2_active_from_gw": 20,
                 },
                 "total_transfers": moves,
                 "total_hit_points": hits,
