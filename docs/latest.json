@@ -1,265 +1,652 @@
 {
- "generated_at_utc": "2026-08-21T08:02:47+00:00",
+ "generated_at_utc": "2026-08-22T02:32:43+00:00",
  "league": {
   "id": 449637,
   "name": "Fantasy Addicts Anonymous",
-  "size": 30
+  "size": 31
  },
  "latest_finished_gw": 0,
  "snapshot_dates": {
-  "standings": null,
-  "players": "2026-08-21"
+  "standings": "2026-08-22",
+  "players": "2026-08-22"
  },
  "justin": {
   "entry_id": 7525442,
-  "rank": null,
+  "rank": 10,
   "profile": {
    "entry_id": 7525442,
-   "player_name": null,
+   "player_name": "Justin Gaggino",
    "team_name": "Singapore Slingers",
-   "chips_used": [],
-   "chips_left_set1_estimate": {
-    "wildcard": 1,
-    "bboost": 1,
-    "3xc": 1,
-    "freehit": 1
+   "chips_used": [
+    {
+     "gw": 1,
+     "chip": "bboost"
+    }
+   ],
+   "chips_left": {
+    "set1": {
+     "wildcard": 1,
+     "bboost": 0,
+     "3xc": 1,
+     "freehit": 1
+    },
+    "set1_note": null,
+    "set2": {
+     "wildcard": 1,
+     "bboost": 1,
+     "3xc": 1,
+     "freehit": 1
+    },
+    "set2_active_from_gw": 20
    },
    "total_transfers": 0,
    "total_hit_points": 0,
    "captain_history": [],
    "captain_counts": {},
    "gws_since_last_transfer": 0,
-   "team_value_tenths": null
+   "team_value_tenths": 1000
   }
  },
- "table": [],
+ "table": [
+  {
+   "rank": 1,
+   "entry_id": 697899,
+   "player_name": "Taj Chan",
+   "team_name": "ProudGooner",
+   "total": 25,
+   "event_total": 25
+  },
+  {
+   "rank": 2,
+   "entry_id": 707546,
+   "player_name": "Daniel Polzella",
+   "team_name": "Haaland Globetroters",
+   "total": 21,
+   "event_total": 21
+  },
+  {
+   "rank": 2,
+   "entry_id": 2297549,
+   "player_name": "Stefan Tomic",
+   "team_name": "FK SUPAK",
+   "total": 21,
+   "event_total": 21
+  },
+  {
+   "rank": 2,
+   "entry_id": 3612001,
+   "player_name": "Neb Milic",
+   "team_name": "Palestra Siesta FC",
+   "total": 21,
+   "event_total": 21
+  },
+  {
+   "rank": 2,
+   "entry_id": 4441153,
+   "player_name": "Lincoln Stollery",
+   "team_name": "Adem Poric",
+   "total": 21,
+   "event_total": 21
+  },
+  {
+   "rank": 2,
+   "entry_id": 5099183,
+   "player_name": "Liam Bermingham",
+   "team_name": "Cornered by Gabriel",
+   "total": 21,
+   "event_total": 21
+  },
+  {
+   "rank": 7,
+   "entry_id": 4333495,
+   "player_name": "Omar Terzic",
+   "team_name": "Fantazija",
+   "total": 20,
+   "event_total": 20
+  },
+  {
+   "rank": 7,
+   "entry_id": 5959124,
+   "player_name": "Austin Ludwik",
+   "team_name": "Mumma's Milk",
+   "total": 20,
+   "event_total": 20
+  },
+  {
+   "rank": 9,
+   "entry_id": 78534,
+   "player_name": "Nikola Gavrilovic",
+   "team_name": "S37OHSSV O773H",
+   "total": 18,
+   "event_total": 18
+  },
+  {
+   "rank": 10,
+   "entry_id": 728419,
+   "player_name": "Alex Windeatt",
+   "team_name": "CaptainCoach",
+   "total": 15,
+   "event_total": 15
+  },
+  {
+   "rank": 10,
+   "entry_id": 1870278,
+   "player_name": "Curtis Stollery",
+   "team_name": "The Dark Cuck Rises",
+   "total": 15,
+   "event_total": 15
+  },
+  {
+   "rank": 10,
+   "entry_id": 5949862,
+   "player_name": "Lachlan Rubens",
+   "team_name": "Groß & Friends",
+   "total": 15,
+   "event_total": 15
+  },
+  {
+   "rank": 10,
+   "entry_id": 6514409,
+   "player_name": "Cooper Budwee",
+   "team_name": "Budwee XI",
+   "total": 15,
+   "event_total": 15
+  },
+  {
+   "rank": 10,
+   "entry_id": 6653682,
+   "player_name": "Tyler Clayton",
+   "team_name": "Daddys(H)",
+   "total": 15,
+   "event_total": 15
+  },
+  {
+   "rank": 10,
+   "entry_id": 7525442,
+   "player_name": "Justin Gaggino",
+   "team_name": "Singapore Slingers",
+   "total": 15,
+   "event_total": 15
+  },
+  {
+   "rank": 16,
+   "entry_id": 1419327,
+   "player_name": "luke Carlon",
+   "team_name": "thats what she said",
+   "total": 14,
+   "event_total": 14
+  },
+  {
+   "rank": 16,
+   "entry_id": 4773975,
+   "player_name": "Milos Mrkaja",
+   "team_name": "Pep Talk FC",
+   "total": 14,
+   "event_total": 14
+  },
+  {
+   "rank": 18,
+   "entry_id": 573475,
+   "player_name": "Nik Mirkovic",
+   "team_name": "Nikaragua",
+   "total": 12,
+   "event_total": 12
+  },
+  {
+   "rank": 18,
+   "entry_id": 821464,
+   "player_name": "Alex Tomic",
+   "team_name": "Tomic FC",
+   "total": 12,
+   "event_total": 12
+  },
+  {
+   "rank": 20,
+   "entry_id": 679676,
+   "player_name": "Lachlan Ball",
+   "team_name": "Not Too Xabi",
+   "total": 9,
+   "event_total": 9
+  },
+  {
+   "rank": 20,
+   "entry_id": 694865,
+   "player_name": "Jack Rice",
+   "team_name": "Rice Rice Baby",
+   "total": 9,
+   "event_total": 9
+  },
+  {
+   "rank": 20,
+   "entry_id": 2925890,
+   "player_name": "Jack Carroll",
+   "team_name": "Carolina FC",
+   "total": 9,
+   "event_total": 9
+  },
+  {
+   "rank": 20,
+   "entry_id": 6538940,
+   "player_name": "Riley Dennings",
+   "team_name": "Ligmatron 3000",
+   "total": 9,
+   "event_total": 9
+  },
+  {
+   "rank": 24,
+   "entry_id": 7549639,
+   "player_name": "Callum Quinn",
+   "team_name": "Change Name",
+   "total": 8,
+   "event_total": 8
+  },
+  {
+   "rank": 25,
+   "entry_id": 1492699,
+   "player_name": "Srdjan Mitrovic",
+   "team_name": "SERGIOs BISCUITS",
+   "total": 6,
+   "event_total": 6
+  },
+  {
+   "rank": 26,
+   "entry_id": 2797433,
+   "player_name": "Rikki-Lee Walters",
+   "team_name": "Equalizer Enthusiast",
+   "total": 5,
+   "event_total": 5
+  },
+  {
+   "rank": 26,
+   "entry_id": 6103952,
+   "player_name": "Alan Walters",
+   "team_name": "CunhaBelieveIt'sTime",
+   "total": 5,
+   "event_total": 5
+  }
+ ],
  "rivals": [
   {
    "entry_id": 78534,
-   "player_name": null,
+   "player_name": "Nikola Gavrilovic",
    "team_name": "S37OHSSV O773H",
    "chips_used": [],
-   "chips_left_set1_estimate": {
-    "wildcard": 1,
-    "bboost": 1,
-    "3xc": 1,
-    "freehit": 1
+   "chips_left": {
+    "set1": {
+     "wildcard": 1,
+     "bboost": 1,
+     "3xc": 1,
+     "freehit": 1
+    },
+    "set1_note": null,
+    "set2": {
+     "wildcard": 1,
+     "bboost": 1,
+     "3xc": 1,
+     "freehit": 1
+    },
+    "set2_active_from_gw": 20
    },
    "total_transfers": 0,
    "total_hit_points": 0,
    "captain_history": [],
    "captain_counts": {},
    "gws_since_last_transfer": 0,
-   "team_value_tenths": null
+   "team_value_tenths": 1000
   },
   {
    "entry_id": 573475,
-   "player_name": null,
+   "player_name": "Nik Mirkovic",
    "team_name": "Nikaragua",
-   "chips_used": [],
-   "chips_left_set1_estimate": {
-    "wildcard": 1,
-    "bboost": 1,
-    "3xc": 1,
-    "freehit": 1
+   "chips_used": [
+    {
+     "gw": 1,
+     "chip": "bboost"
+    }
+   ],
+   "chips_left": {
+    "set1": {
+     "wildcard": 1,
+     "bboost": 0,
+     "3xc": 1,
+     "freehit": 1
+    },
+    "set1_note": null,
+    "set2": {
+     "wildcard": 1,
+     "bboost": 1,
+     "3xc": 1,
+     "freehit": 1
+    },
+    "set2_active_from_gw": 20
    },
    "total_transfers": 0,
    "total_hit_points": 0,
    "captain_history": [],
    "captain_counts": {},
    "gws_since_last_transfer": 0,
-   "team_value_tenths": null
+   "team_value_tenths": 1000
   },
   {
    "entry_id": 679676,
-   "player_name": null,
+   "player_name": "Lachlan Ball",
    "team_name": "Not Too Xabi",
-   "chips_used": [],
-   "chips_left_set1_estimate": {
-    "wildcard": 1,
-    "bboost": 1,
-    "3xc": 1,
-    "freehit": 1
+   "chips_used": [
+    {
+     "gw": 1,
+     "chip": "bboost"
+    }
+   ],
+   "chips_left": {
+    "set1": {
+     "wildcard": 1,
+     "bboost": 0,
+     "3xc": 1,
+     "freehit": 1
+    },
+    "set1_note": null,
+    "set2": {
+     "wildcard": 1,
+     "bboost": 1,
+     "3xc": 1,
+     "freehit": 1
+    },
+    "set2_active_from_gw": 20
    },
    "total_transfers": 0,
    "total_hit_points": 0,
    "captain_history": [],
    "captain_counts": {},
    "gws_since_last_transfer": 0,
-   "team_value_tenths": null
+   "team_value_tenths": 1000
   },
   {
    "entry_id": 694865,
-   "player_name": null,
+   "player_name": "Jack Rice",
    "team_name": "Rice Rice Baby",
-   "chips_used": [],
-   "chips_left_set1_estimate": {
-    "wildcard": 1,
-    "bboost": 1,
-    "3xc": 1,
-    "freehit": 1
+   "chips_used": [
+    {
+     "gw": 1,
+     "chip": "bboost"
+    }
+   ],
+   "chips_left": {
+    "set1": {
+     "wildcard": 1,
+     "bboost": 0,
+     "3xc": 1,
+     "freehit": 1
+    },
+    "set1_note": null,
+    "set2": {
+     "wildcard": 1,
+     "bboost": 1,
+     "3xc": 1,
+     "freehit": 1
+    },
+    "set2_active_from_gw": 20
    },
    "total_transfers": 0,
    "total_hit_points": 0,
    "captain_history": [],
    "captain_counts": {},
    "gws_since_last_transfer": 0,
-   "team_value_tenths": null
+   "team_value_tenths": 1000
   },
   {
    "entry_id": 697899,
-   "player_name": null,
+   "player_name": "Taj Chan",
    "team_name": "ProudGooner",
    "chips_used": [],
-   "chips_left_set1_estimate": {
-    "wildcard": 1,
-    "bboost": 1,
-    "3xc": 1,
-    "freehit": 1
+   "chips_left": {
+    "set1": {
+     "wildcard": 1,
+     "bboost": 1,
+     "3xc": 1,
+     "freehit": 1
+    },
+    "set1_note": null,
+    "set2": {
+     "wildcard": 1,
+     "bboost": 1,
+     "3xc": 1,
+     "freehit": 1
+    },
+    "set2_active_from_gw": 20
    },
    "total_transfers": 0,
    "total_hit_points": 0,
    "captain_history": [],
    "captain_counts": {},
    "gws_since_last_transfer": 0,
-   "team_value_tenths": null
+   "team_value_tenths": 1000
   },
   {
    "entry_id": 707546,
-   "player_name": null,
+   "player_name": "Daniel Polzella",
    "team_name": "Haaland Globetroters",
    "chips_used": [],
-   "chips_left_set1_estimate": {
-    "wildcard": 1,
-    "bboost": 1,
-    "3xc": 1,
-    "freehit": 1
+   "chips_left": {
+    "set1": {
+     "wildcard": 1,
+     "bboost": 1,
+     "3xc": 1,
+     "freehit": 1
+    },
+    "set1_note": null,
+    "set2": {
+     "wildcard": 1,
+     "bboost": 1,
+     "3xc": 1,
+     "freehit": 1
+    },
+    "set2_active_from_gw": 20
    },
    "total_transfers": 0,
    "total_hit_points": 0,
    "captain_history": [],
    "captain_counts": {},
    "gws_since_last_transfer": 0,
-   "team_value_tenths": null
+   "team_value_tenths": 1000
   },
   {
    "entry_id": 728419,
-   "player_name": null,
+   "player_name": "Alex Windeatt",
    "team_name": "CaptainCoach",
    "chips_used": [],
-   "chips_left_set1_estimate": {
-    "wildcard": 1,
-    "bboost": 1,
-    "3xc": 1,
-    "freehit": 1
+   "chips_left": {
+    "set1": {
+     "wildcard": 1,
+     "bboost": 1,
+     "3xc": 1,
+     "freehit": 1
+    },
+    "set1_note": null,
+    "set2": {
+     "wildcard": 1,
+     "bboost": 1,
+     "3xc": 1,
+     "freehit": 1
+    },
+    "set2_active_from_gw": 20
    },
    "total_transfers": 0,
    "total_hit_points": 0,
    "captain_history": [],
    "captain_counts": {},
    "gws_since_last_transfer": 0,
-   "team_value_tenths": null
+   "team_value_tenths": 1000
   },
   {
    "entry_id": 821464,
-   "player_name": null,
+   "player_name": "Alex Tomic",
    "team_name": "Tomic FC",
-   "chips_used": [],
-   "chips_left_set1_estimate": {
-    "wildcard": 1,
-    "bboost": 1,
-    "3xc": 1,
-    "freehit": 1
+   "chips_used": [
+    {
+     "gw": 1,
+     "chip": "bboost"
+    }
+   ],
+   "chips_left": {
+    "set1": {
+     "wildcard": 1,
+     "bboost": 0,
+     "3xc": 1,
+     "freehit": 1
+    },
+    "set1_note": null,
+    "set2": {
+     "wildcard": 1,
+     "bboost": 1,
+     "3xc": 1,
+     "freehit": 1
+    },
+    "set2_active_from_gw": 20
    },
    "total_transfers": 0,
    "total_hit_points": 0,
    "captain_history": [],
    "captain_counts": {},
    "gws_since_last_transfer": 0,
-   "team_value_tenths": null
+   "team_value_tenths": 1000
   },
   {
    "entry_id": 1419327,
-   "player_name": null,
+   "player_name": "luke Carlon",
    "team_name": "thats what she said",
    "chips_used": [],
-   "chips_left_set1_estimate": {
-    "wildcard": 1,
-    "bboost": 1,
-    "3xc": 1,
-    "freehit": 1
+   "chips_left": {
+    "set1": {
+     "wildcard": 1,
+     "bboost": 1,
+     "3xc": 1,
+     "freehit": 1
+    },
+    "set1_note": null,
+    "set2": {
+     "wildcard": 1,
+     "bboost": 1,
+     "3xc": 1,
+     "freehit": 1
+    },
+    "set2_active_from_gw": 20
    },
    "total_transfers": 0,
    "total_hit_points": 0,
    "captain_history": [],
    "captain_counts": {},
    "gws_since_last_transfer": 0,
-   "team_value_tenths": null
+   "team_value_tenths": 1000
   },
   {
    "entry_id": 1492699,
-   "player_name": null,
+   "player_name": "Srdjan Mitrovic",
    "team_name": "SERGIOs BISCUITS",
    "chips_used": [],
-   "chips_left_set1_estimate": {
-    "wildcard": 1,
-    "bboost": 1,
-    "3xc": 1,
-    "freehit": 1
+   "chips_left": {
+    "set1": {
+     "wildcard": 1,
+     "bboost": 1,
+     "3xc": 1,
+     "freehit": 1
+    },
+    "set1_note": null,
+    "set2": {
+     "wildcard": 1,
+     "bboost": 1,
+     "3xc": 1,
+     "freehit": 1
+    },
+    "set2_active_from_gw": 20
    },
    "total_transfers": 0,
    "total_hit_points": 0,
    "captain_history": [],
    "captain_counts": {},
    "gws_since_last_transfer": 0,
-   "team_value_tenths": null
+   "team_value_tenths": 1000
   },
   {
    "entry_id": 1870278,
-   "player_name": null,
+   "player_name": "Curtis Stollery",
    "team_name": "The Dark Cuck Rises",
    "chips_used": [],
-   "chips_left_set1_estimate": {
-    "wildcard": 1,
-    "bboost": 1,
-    "3xc": 1,
-    "freehit": 1
+   "chips_left": {
+    "set1": {
+     "wildcard": 1,
+     "bboost": 1,
+     "3xc": 1,
+     "freehit": 1
+    },
+    "set1_note": null,
+    "set2": {
+     "wildcard": 1,
+     "bboost": 1,
+     "3xc": 1,
+     "freehit": 1
+    },
+    "set2_active_from_gw": 20
    },
    "total_transfers": 0,
    "total_hit_points": 0,
    "captain_history": [],
    "captain_counts": {},
    "gws_since_last_transfer": 0,
-   "team_value_tenths": null
+   "team_value_tenths": 1000
   },
   {
    "entry_id": 2297549,
-   "player_name": null,
+   "player_name": "Stefan Tomic",
    "team_name": "FK SUPAK",
-   "chips_used": [],
-   "chips_left_set1_estimate": {
-    "wildcard": 1,
-    "bboost": 1,
-    "3xc": 1,
-    "freehit": 1
+   "chips_used": [
+    {
+     "gw": 1,
+     "chip": "bboost"
+    }
+   ],
+   "chips_left": {
+    "set1": {
+     "wildcard": 1,
+     "bboost": 0,
+     "3xc": 1,
+     "freehit": 1
+    },
+    "set1_note": null,
+    "set2": {
+     "wildcard": 1,
+     "bboost": 1,
+     "3xc": 1,
+     "freehit": 1
+    },
+    "set2_active_from_gw": 20
    },
    "total_transfers": 0,
    "total_hit_points": 0,
    "captain_history": [],
    "captain_counts": {},
    "gws_since_last_transfer": 0,
-   "team_value_tenths": null
+   "team_value_tenths": 1000
   },
   {
    "entry_id": 2436383,
    "player_name": null,
    "team_name": "Merino up front",
    "chips_used": [],
-   "chips_left_set1_estimate": {
-    "wildcard": 1,
-    "bboost": 1,
-    "3xc": 1,
-    "freehit": 1
+   "chips_left": {
+    "set1": {
+     "wildcard": 1,
+     "bboost": 1,
+     "3xc": 1,
+     "freehit": 1
+    },
+    "set1_note": null,
+    "set2": {
+     "wildcard": 1,
+     "bboost": 1,
+     "3xc": 1,
+     "freehit": 1
+    },
+    "set2_active_from_gw": 20
    },
    "total_transfers": 0,
    "total_hit_points": 0,
@@ -270,50 +657,80 @@
   },
   {
    "entry_id": 2797433,
-   "player_name": null,
+   "player_name": "Rikki-Lee Walters",
    "team_name": "Equalizer Enthusiast",
    "chips_used": [],
-   "chips_left_set1_estimate": {
-    "wildcard": 1,
-    "bboost": 1,
-    "3xc": 1,
-    "freehit": 1
+   "chips_left": {
+    "set1": {
+     "wildcard": 1,
+     "bboost": 1,
+     "3xc": 1,
+     "freehit": 1
+    },
+    "set1_note": null,
+    "set2": {
+     "wildcard": 1,
+     "bboost": 1,
+     "3xc": 1,
+     "freehit": 1
+    },
+    "set2_active_from_gw": 20
    },
    "total_transfers": 0,
    "total_hit_points": 0,
    "captain_history": [],
    "captain_counts": {},
    "gws_since_last_transfer": 0,
-   "team_value_tenths": null
+   "team_value_tenths": 1000
   },
   {
    "entry_id": 2925890,
-   "player_name": null,
+   "player_name": "Jack Carroll",
    "team_name": "Carolina FC",
    "chips_used": [],
-   "chips_left_set1_estimate": {
-    "wildcard": 1,
-    "bboost": 1,
-    "3xc": 1,
-    "freehit": 1
+   "chips_left": {
+    "set1": {
+     "wildcard": 1,
+     "bboost": 1,
+     "3xc": 1,
+     "freehit": 1
+    },
+    "set1_note": null,
+    "set2": {
+     "wildcard": 1,
+     "bboost": 1,
+     "3xc": 1,
+     "freehit": 1
+    },
+    "set2_active_from_gw": 20
    },
    "total_transfers": 0,
    "total_hit_points": 0,
    "captain_history": [],
    "captain_counts": {},
    "gws_since_last_transfer": 0,
-   "team_value_tenths": null
+   "team_value_tenths": 1000
   },
   {
    "entry_id": 3505567,
    "player_name": null,
    "team_name": "Getdown",
    "chips_used": [],
-   "chips_left_set1_estimate": {
-    "wildcard": 1,
-    "bboost": 1,
-    "3xc": 1,
-    "freehit": 1
+   "chips_left": {
+    "set1": {
+     "wildcard": 1,
+     "bboost": 1,
+     "3xc": 1,
+     "freehit": 1
+    },
+    "set1_note": null,
+    "set2": {
+     "wildcard": 1,
+     "bboost": 1,
+     "3xc": 1,
+     "freehit": 1
+    },
+    "set2_active_from_gw": 20
    },
    "total_transfers": 0,
    "total_hit_points": 0,
@@ -324,32 +741,52 @@
   },
   {
    "entry_id": 3612001,
-   "player_name": null,
+   "player_name": "Neb Milic",
    "team_name": "Palestra Siesta FC",
    "chips_used": [],
-   "chips_left_set1_estimate": {
-    "wildcard": 1,
-    "bboost": 1,
-    "3xc": 1,
-    "freehit": 1
+   "chips_left": {
+    "set1": {
+     "wildcard": 1,
+     "bboost": 1,
+     "3xc": 1,
+     "freehit": 1
+    },
+    "set1_note": null,
+    "set2": {
+     "wildcard": 1,
+     "bboost": 1,
+     "3xc": 1,
+     "freehit": 1
+    },
+    "set2_active_from_gw": 20
    },
    "total_transfers": 0,
    "total_hit_points": 0,
    "captain_history": [],
    "captain_counts": {},
    "gws_since_last_transfer": 0,
-   "team_value_tenths": null
+   "team_value_tenths": 1000
   },
   {
    "entry_id": 3662978,
    "player_name": null,
    "team_name": "4211 FK",
    "chips_used": [],
-   "chips_left_set1_estimate": {
-    "wildcard": 1,
-    "bboost": 1,
-    "3xc": 1,
-    "freehit": 1
+   "chips_left": {
+    "set1": {
+     "wildcard": 1,
+     "bboost": 1,
+     "3xc": 1,
+     "freehit": 1
+    },
+    "set1_note": null,
+    "set2": {
+     "wildcard": 1,
+     "bboost": 1,
+     "3xc": 1,
+     "freehit": 1
+    },
+    "set2_active_from_gw": 20
    },
    "total_transfers": 0,
    "total_hit_points": 0,
@@ -360,212 +797,390 @@
   },
   {
    "entry_id": 4333495,
-   "player_name": null,
+   "player_name": "Omar Terzic",
    "team_name": "Fantazija",
-   "chips_used": [],
-   "chips_left_set1_estimate": {
-    "wildcard": 1,
-    "bboost": 1,
-    "3xc": 1,
-    "freehit": 1
+   "chips_used": [
+    {
+     "gw": 1,
+     "chip": "bboost"
+    }
+   ],
+   "chips_left": {
+    "set1": {
+     "wildcard": 1,
+     "bboost": 0,
+     "3xc": 1,
+     "freehit": 1
+    },
+    "set1_note": null,
+    "set2": {
+     "wildcard": 1,
+     "bboost": 1,
+     "3xc": 1,
+     "freehit": 1
+    },
+    "set2_active_from_gw": 20
    },
    "total_transfers": 0,
    "total_hit_points": 0,
    "captain_history": [],
    "captain_counts": {},
    "gws_since_last_transfer": 0,
-   "team_value_tenths": null
+   "team_value_tenths": 1000
   },
   {
    "entry_id": 4441153,
-   "player_name": null,
+   "player_name": "Lincoln Stollery",
    "team_name": "Adem Poric",
-   "chips_used": [],
-   "chips_left_set1_estimate": {
-    "wildcard": 1,
-    "bboost": 1,
-    "3xc": 1,
-    "freehit": 1
+   "chips_used": [
+    {
+     "gw": 1,
+     "chip": "bboost"
+    }
+   ],
+   "chips_left": {
+    "set1": {
+     "wildcard": 1,
+     "bboost": 0,
+     "3xc": 1,
+     "freehit": 1
+    },
+    "set1_note": null,
+    "set2": {
+     "wildcard": 1,
+     "bboost": 1,
+     "3xc": 1,
+     "freehit": 1
+    },
+    "set2_active_from_gw": 20
    },
    "total_transfers": 0,
    "total_hit_points": 0,
    "captain_history": [],
    "captain_counts": {},
    "gws_since_last_transfer": 0,
-   "team_value_tenths": null
+   "team_value_tenths": 1000
   },
   {
    "entry_id": 4773975,
-   "player_name": null,
+   "player_name": "Milos Mrkaja",
    "team_name": "Pep Talk FC",
    "chips_used": [],
-   "chips_left_set1_estimate": {
-    "wildcard": 1,
-    "bboost": 1,
-    "3xc": 1,
-    "freehit": 1
+   "chips_left": {
+    "set1": {
+     "wildcard": 1,
+     "bboost": 1,
+     "3xc": 1,
+     "freehit": 1
+    },
+    "set1_note": null,
+    "set2": {
+     "wildcard": 1,
+     "bboost": 1,
+     "3xc": 1,
+     "freehit": 1
+    },
+    "set2_active_from_gw": 20
    },
    "total_transfers": 0,
    "total_hit_points": 0,
    "captain_history": [],
    "captain_counts": {},
    "gws_since_last_transfer": 0,
-   "team_value_tenths": null
+   "team_value_tenths": 1000
   },
   {
    "entry_id": 5099183,
-   "player_name": null,
+   "player_name": "Liam Bermingham",
    "team_name": "Cornered by Gabriel",
    "chips_used": [],
-   "chips_left_set1_estimate": {
-    "wildcard": 1,
-    "bboost": 1,
-    "3xc": 1,
-    "freehit": 1
+   "chips_left": {
+    "set1": {
+     "wildcard": 1,
+     "bboost": 1,
+     "3xc": 1,
+     "freehit": 1
+    },
+    "set1_note": null,
+    "set2": {
+     "wildcard": 1,
+     "bboost": 1,
+     "3xc": 1,
+     "freehit": 1
+    },
+    "set2_active_from_gw": 20
    },
    "total_transfers": 0,
    "total_hit_points": 0,
    "captain_history": [],
    "captain_counts": {},
    "gws_since_last_transfer": 0,
-   "team_value_tenths": null
+   "team_value_tenths": 1000
   },
   {
    "entry_id": 5949862,
-   "player_name": null,
+   "player_name": "Lachlan Rubens",
    "team_name": "Groß & Friends",
    "chips_used": [],
-   "chips_left_set1_estimate": {
-    "wildcard": 1,
-    "bboost": 1,
-    "3xc": 1,
-    "freehit": 1
+   "chips_left": {
+    "set1": {
+     "wildcard": 1,
+     "bboost": 1,
+     "3xc": 1,
+     "freehit": 1
+    },
+    "set1_note": null,
+    "set2": {
+     "wildcard": 1,
+     "bboost": 1,
+     "3xc": 1,
+     "freehit": 1
+    },
+    "set2_active_from_gw": 20
    },
    "total_transfers": 0,
    "total_hit_points": 0,
    "captain_history": [],
    "captain_counts": {},
    "gws_since_last_transfer": 0,
-   "team_value_tenths": null
+   "team_value_tenths": 1000
   },
   {
    "entry_id": 5959124,
-   "player_name": null,
+   "player_name": "Austin Ludwik",
    "team_name": "Mumma's Milk",
    "chips_used": [],
-   "chips_left_set1_estimate": {
-    "wildcard": 1,
-    "bboost": 1,
-    "3xc": 1,
-    "freehit": 1
+   "chips_left": {
+    "set1": {
+     "wildcard": 1,
+     "bboost": 1,
+     "3xc": 1,
+     "freehit": 1
+    },
+    "set1_note": null,
+    "set2": {
+     "wildcard": 1,
+     "bboost": 1,
+     "3xc": 1,
+     "freehit": 1
+    },
+    "set2_active_from_gw": 20
    },
    "total_transfers": 0,
    "total_hit_points": 0,
    "captain_history": [],
    "captain_counts": {},
    "gws_since_last_transfer": 0,
-   "team_value_tenths": null
+   "team_value_tenths": 1000
   },
   {
    "entry_id": 6103952,
-   "player_name": null,
+   "player_name": "Alan Walters",
    "team_name": "CunhaBelieveIt'sTime",
-   "chips_used": [],
-   "chips_left_set1_estimate": {
-    "wildcard": 1,
-    "bboost": 1,
-    "3xc": 1,
-    "freehit": 1
+   "chips_used": [
+    {
+     "gw": 1,
+     "chip": "bboost"
+    }
+   ],
+   "chips_left": {
+    "set1": {
+     "wildcard": 1,
+     "bboost": 0,
+     "3xc": 1,
+     "freehit": 1
+    },
+    "set1_note": null,
+    "set2": {
+     "wildcard": 1,
+     "bboost": 1,
+     "3xc": 1,
+     "freehit": 1
+    },
+    "set2_active_from_gw": 20
    },
    "total_transfers": 0,
    "total_hit_points": 0,
    "captain_history": [],
    "captain_counts": {},
    "gws_since_last_transfer": 0,
-   "team_value_tenths": null
+   "team_value_tenths": 1000
   },
   {
    "entry_id": 6514409,
-   "player_name": null,
+   "player_name": "Cooper Budwee",
    "team_name": "Budwee XI",
-   "chips_used": [],
-   "chips_left_set1_estimate": {
-    "wildcard": 1,
-    "bboost": 1,
-    "3xc": 1,
-    "freehit": 1
+   "chips_used": [
+    {
+     "gw": 1,
+     "chip": "bboost"
+    }
+   ],
+   "chips_left": {
+    "set1": {
+     "wildcard": 1,
+     "bboost": 0,
+     "3xc": 1,
+     "freehit": 1
+    },
+    "set1_note": null,
+    "set2": {
+     "wildcard": 1,
+     "bboost": 1,
+     "3xc": 1,
+     "freehit": 1
+    },
+    "set2_active_from_gw": 20
    },
    "total_transfers": 0,
    "total_hit_points": 0,
    "captain_history": [],
    "captain_counts": {},
    "gws_since_last_transfer": 0,
-   "team_value_tenths": null
+   "team_value_tenths": 1000
   },
   {
    "entry_id": 6538940,
-   "player_name": null,
+   "player_name": "Riley Dennings",
    "team_name": "Ligmatron 3000",
-   "chips_used": [],
-   "chips_left_set1_estimate": {
-    "wildcard": 1,
-    "bboost": 1,
-    "3xc": 1,
-    "freehit": 1
+   "chips_used": [
+    {
+     "gw": 1,
+     "chip": "bboost"
+    }
+   ],
+   "chips_left": {
+    "set1": {
+     "wildcard": 1,
+     "bboost": 0,
+     "3xc": 1,
+     "freehit": 1
+    },
+    "set1_note": null,
+    "set2": {
+     "wildcard": 1,
+     "bboost": 1,
+     "3xc": 1,
+     "freehit": 1
+    },
+    "set2_active_from_gw": 20
    },
    "total_transfers": 0,
    "total_hit_points": 0,
    "captain_history": [],
    "captain_counts": {},
    "gws_since_last_transfer": 0,
-   "team_value_tenths": null
+   "team_value_tenths": 1000
   },
   {
    "entry_id": 6653682,
-   "player_name": null,
+   "player_name": "Tyler Clayton",
    "team_name": "Daddys(H)",
    "chips_used": [],
-   "chips_left_set1_estimate": {
-    "wildcard": 1,
-    "bboost": 1,
-    "3xc": 1,
-    "freehit": 1
+   "chips_left": {
+    "set1": {
+     "wildcard": 1,
+     "bboost": 1,
+     "3xc": 1,
+     "freehit": 1
+    },
+    "set1_note": null,
+    "set2": {
+     "wildcard": 1,
+     "bboost": 1,
+     "3xc": 1,
+     "freehit": 1
+    },
+    "set2_active_from_gw": 20
    },
    "total_transfers": 0,
    "total_hit_points": 0,
    "captain_history": [],
    "captain_counts": {},
    "gws_since_last_transfer": 0,
-   "team_value_tenths": null
+   "team_value_tenths": 1000
   },
   {
    "entry_id": 7525442,
-   "player_name": null,
+   "player_name": "Justin Gaggino",
    "team_name": "Singapore Slingers",
-   "chips_used": [],
-   "chips_left_set1_estimate": {
-    "wildcard": 1,
-    "bboost": 1,
-    "3xc": 1,
-    "freehit": 1
+   "chips_used": [
+    {
+     "gw": 1,
+     "chip": "bboost"
+    }
+   ],
+   "chips_left": {
+    "set1": {
+     "wildcard": 1,
+     "bboost": 0,
+     "3xc": 1,
+     "freehit": 1
+    },
+    "set1_note": null,
+    "set2": {
+     "wildcard": 1,
+     "bboost": 1,
+     "3xc": 1,
+     "freehit": 1
+    },
+    "set2_active_from_gw": 20
    },
    "total_transfers": 0,
    "total_hit_points": 0,
    "captain_history": [],
    "captain_counts": {},
    "gws_since_last_transfer": 0,
-   "team_value_tenths": null
+   "team_value_tenths": 1000
   },
   {
    "entry_id": 7549639,
-   "player_name": null,
+   "player_name": "Callum Quinn",
    "team_name": "Change Name",
    "chips_used": [],
-   "chips_left_set1_estimate": {
-    "wildcard": 1,
-    "bboost": 1,
-    "3xc": 1,
-    "freehit": 1
+   "chips_left": {
+    "set1": {
+     "wildcard": 1,
+     "bboost": 1,
+     "3xc": 1,
+     "freehit": 1
+    },
+    "set1_note": null,
+    "set2": {
+     "wildcard": 1,
+     "bboost": 1,
+     "3xc": 1,
+     "freehit": 1
+    },
+    "set2_active_from_gw": 20
+   },
+   "total_transfers": 0,
+   "total_hit_points": 0,
+   "captain_history": [],
+   "captain_counts": {},
+   "gws_since_last_transfer": 0,
+   "team_value_tenths": 1000
+  },
+  {
+   "entry_id": 9066886,
+   "player_name": null,
+   "team_name": "Pending Moderation",
+   "chips_used": [],
+   "chips_left": {
+    "set1": {
+     "wildcard": 1,
+     "bboost": 1,
+     "3xc": 1,
+     "freehit": 1
+    },
+    "set1_note": null,
+    "set2": {
+     "wildcard": 1,
+     "bboost": 1,
+     "3xc": 1,
+     "freehit": 1
+    },
+    "set2_active_from_gw": 20
    },
    "total_transfers": 0,
    "total_hit_points": 0,
@@ -578,6 +1193,76 @@
  "league_effective_ownership": [],
  "price_and_ownership_moves": [
   {
+   "player": "Thiago (BRE)",
+   "price_now": 8.0,
+   "price_change_window": 0.0,
+   "sel_by_pct_now": 17.0,
+   "sel_by_pct_change_window": -0.5,
+   "status": "a",
+   "news": "",
+   "window_days": 2
+  },
+  {
+   "player": "Isak (LIV)",
+   "price_now": 9.0,
+   "price_change_window": 0.0,
+   "sel_by_pct_now": 16.8,
+   "sel_by_pct_change_window": 0.4,
+   "status": "a",
+   "news": "",
+   "window_days": 2
+  },
+  {
+   "player": "M.Sangaré (BRE)",
+   "price_now": 5.5,
+   "price_change_window": 0.0,
+   "sel_by_pct_now": 3.3,
+   "sel_by_pct_change_window": 0.2,
+   "status": "a",
+   "news": "",
+   "window_days": 2
+  },
+  {
+   "player": "Palmer (IPS)",
+   "price_now": 4.0,
+   "price_change_window": 0.0,
+   "sel_by_pct_now": 4.8,
+   "sel_by_pct_change_window": -0.1,
+   "status": "a",
+   "news": "",
+   "window_days": 2
+  },
+  {
+   "player": "Semenyo (MCI)",
+   "price_now": 8.5,
+   "price_change_window": 0.0,
+   "sel_by_pct_now": 26.3,
+   "sel_by_pct_change_window": -0.1,
+   "status": "a",
+   "news": "",
+   "window_days": 2
+  },
+  {
+   "player": "Foden (MCI)",
+   "price_now": 7.0,
+   "price_change_window": 0.0,
+   "sel_by_pct_now": 4.4,
+   "sel_by_pct_change_window": 0.1,
+   "status": "a",
+   "news": "",
+   "window_days": 2
+  },
+  {
+   "player": "Haaland (MCI)",
+   "price_now": 15.5,
+   "price_change_window": 0.0,
+   "sel_by_pct_now": 69.4,
+   "sel_by_pct_change_window": 0.1,
+   "status": "a",
+   "news": "",
+   "window_days": 2
+  },
+  {
    "player": "Gabriel (ARS)",
    "price_now": 8.0,
    "price_change_window": 0.0,
@@ -585,87 +1270,17 @@
    "sel_by_pct_change_window": 0.0,
    "status": "a",
    "news": "",
-   "window_days": 1
+   "window_days": 2
   },
   {
-   "player": "Sangaré (NFO)",
+   "player": "I.Sangaré (NFO)",
    "price_now": 5.0,
    "price_change_window": 0.0,
    "sel_by_pct_now": 1.1,
    "sel_by_pct_change_window": 0.0,
    "status": "a",
    "news": "",
-   "window_days": 1
-  },
-  {
-   "player": "Thiago (BRE)",
-   "price_now": 8.0,
-   "price_change_window": 0.0,
-   "sel_by_pct_now": 17.5,
-   "sel_by_pct_change_window": 0.0,
-   "status": "a",
-   "news": "",
-   "window_days": 1
-  },
-  {
-   "player": "Palmer (IPS)",
-   "price_now": 4.0,
-   "price_change_window": 0.0,
-   "sel_by_pct_now": 4.9,
-   "sel_by_pct_change_window": 0.0,
-   "status": "a",
-   "news": "",
-   "window_days": 1
-  },
-  {
-   "player": "Semenyo (MCI)",
-   "price_now": 8.5,
-   "price_change_window": 0.0,
-   "sel_by_pct_now": 26.4,
-   "sel_by_pct_change_window": 0.0,
-   "status": "a",
-   "news": "",
-   "window_days": 1
-  },
-  {
-   "player": "Foden (MCI)",
-   "price_now": 7.0,
-   "price_change_window": 0.0,
-   "sel_by_pct_now": 4.3,
-   "sel_by_pct_change_window": 0.0,
-   "status": "a",
-   "news": "",
-   "window_days": 1
-  },
-  {
-   "player": "Isak (LIV)",
-   "price_now": 9.0,
-   "price_change_window": 0.0,
-   "sel_by_pct_now": 16.4,
-   "sel_by_pct_change_window": 0.0,
-   "status": "a",
-   "news": "",
-   "window_days": 1
-  },
-  {
-   "player": "Haaland (MCI)",
-   "price_now": 15.5,
-   "price_change_window": 0.0,
-   "sel_by_pct_now": 69.3,
-   "sel_by_pct_change_window": 0.0,
-   "status": "a",
-   "news": "",
-   "window_days": 1
-  },
-  {
-   "player": "Sangaré (BRE)",
-   "price_now": 5.5,
-   "price_change_window": 0.0,
-   "sel_by_pct_now": 3.1,
-   "sel_by_pct_change_window": 0.0,
-   "status": "a",
-   "news": "",
-   "window_days": 1
+   "window_days": 2
   },
   {
    "player": "Palmer (CHE)",
@@ -675,7 +1290,7 @@
    "sel_by_pct_change_window": 0.0,
    "status": "a",
    "news": "",
-   "window_days": 1
+   "window_days": 2
   },
   {
    "player": "Hinshelwood (BHA)",
@@ -685,7 +1300,7 @@
    "sel_by_pct_change_window": 0.0,
    "status": "a",
    "news": "",
-   "window_days": 1
+   "window_days": 2
   }
  ],
  "notes": "All data from the public FPL API. eo_pct = (starters+captain doubles)/league size."
